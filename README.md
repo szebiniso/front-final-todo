@@ -1,3 +1,8 @@
+# Todo
+<img width="1440" alt="image" src="https://github.com/szebiniso/front-final-todo/assets/72644178/a8c29253-5a09-4046-ab0f-3375689dfc32">
+
+<img width="1440" alt="image" src="https://github.com/szebiniso/front-final-todo/assets/72644178/4f40b84a-fd16-41af-9f74-2d8774aa2893">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
